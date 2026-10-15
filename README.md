@@ -1,5 +1,7 @@
 # BatteryBar
 
+<img src="Resources/AppIcon.png" width="128" alt="BatteryBar battery icon">
+
 A macOS menu bar app that shows the battery level of your Bluetooth keyboard and mouse at a glance.
 
 ## Install

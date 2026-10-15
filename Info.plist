@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleExecutable</key>
 	<string>BatteryBar</string>
+	<key>CFBundleIconFile</key>
+	<string>BatteryBar</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.prakrin.batterybar</string>
 	<key>CFBundleName</key>
